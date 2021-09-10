@@ -1,0 +1,4 @@
+.env
+node_modules
+db/coasters.json
+db/parks.json
